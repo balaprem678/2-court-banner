@@ -1,0 +1,80 @@
+.wrapper {
+  position: relative;
+}
+/* .img1,
+.img12,
+.img2,
+.img21,
+.img22,
+.img23,
+.img3,
+.img4{
+  position: absolute;
+  width: 250px;
+  height: 500px;
+  top: 0;
+  left: 0;
+} */
+.image1 img,
+.image2 img,
+.image3 img,
+.image4 img,
+.image5 img,
+.image6 img,
+.image7 img,
+.image8 img {
+  position: absolute;
+  width: 250px;
+  height: 500px;
+  top: 0;
+  left: 0;
+}
+/* .img12{
+  position: absolute;
+  width: 250px;
+  height: 500px;
+  top: 0;
+  left: 0;
+}
+.img2{
+  position: absolute;
+  width: 250px;
+  height: 500;
+  top: 0;
+  left: 0;
+}
+.img21{
+  position: absolute;
+  width: 250px;
+  height: 500;
+  top: 0;
+  left: 0;
+}
+.img22{
+  position: absolute;
+  width: 250px;
+  height: 500;
+  top: 0;
+  left: 0;
+}
+.img23{
+  position: absolute;
+  width: 250px;
+  height: 500;
+  top: 0;
+  left: 0;
+}
+.img3{
+  position: absolute;
+  width: 250px;
+  height: 500;
+  top: 0;
+  left: 0;
+}
+.img4{
+  position: absolute;
+  width: 250px;
+  height: 500;
+  top: 0;
+  left: 0;
+} */
